@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="syntax_error">Синтаксна грешка</string>
+    <string name="menu_clear_history">Обриши историју</string>
+    <string name="menu_about">О апликацији</string>
+    <string name="settings_general_theme">Тема</string>
+    <string name="theme_light">Светла</string>
+    <string name="theme_dark">Тамна</string>
+    <string name="infinity">Безброј</string>
+    <string name="division_by_0">Не може се поделити са 0</string>
+    <string name="domain_error">Грешка домена</string>
+    <string name="app_name_display">Калкулатор</string>
+    <string name="theme_system">Систем</string>
+    <string name="theme_amoled">Црна</string>
+    <string name="value_copied">Копирано</string>
+    <string name="value_too_large">Превелика вредност</string>
+    <string name="settings_category_general">ОПШТА</string>
+    <string name="settings_category_history">ИСТОРИЈА</string>
+    <string name="settings_general_radians">Радијани</string>
+    <string name="settings_general_radians_desc">Подразумевано користи радијане уместо степени</string>
+    <string name="about_category_help">ПОМОЗИ НАМ</string>
+    <string name="about_help_donate">Донирај</string>
+    <string name="about_category_social">ДРУШТВЕНИ МЕДИЈИ</string>
+    <string name="about_category_info">ДРУГО</string>
+    <string name="about_help_translate">Преведи</string>
+    <string name="about_help_rate">Оцени ову апликацију</string>
+    <string name="about_made_in_france">Направљено са ❤️ у Француској</string>
+    <string name="about_other_privacy_policy">Политика приватности</string>
+    <string name="settings_history_size">Број сачуваних резултата у историји</string>
+    <string name="settings_general_language">Језик</string>
+    <string name="settings_general_vibration_desc">Вибрира када се притисне дугме</string>
+    <string name="menu_settings">Подешавања</string>
+    <string name="settings_advanced_prevent_sleep_desc">Спречи да се екран искључи док је апликација у првом плану</string>
+    <string name="settings_general_vibration">Вибрације</string>
+    <string name="settings_category_advanced">НАПРЕДНО</string>
+    <string name="settings_advanced_prevent_sleep">Спречи искључивање екрана</string>
+    <string name="settings_general_scientific_mode">Напредни режим</string>
+    <string name="settings_general_scientific_mode_desc">Подразумевано активирај напредни режим</string>
+    <string name="about_other_version">Верзија</string>
+    <string name="settings_formatting_precision">Број децималних места</string>
+    <string name="about_easter_egg">Хвала што користите OpenCalc ❤️</string>
+</resources>

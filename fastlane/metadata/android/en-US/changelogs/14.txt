@@ -1,0 +1,6 @@
+New:
+- Tip button
+
+Changes:
+- Impove history format
+- Update minus character

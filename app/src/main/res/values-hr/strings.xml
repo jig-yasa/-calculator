@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_display">Kalkulator</string>
+    <string name="settings_general_theme">Tema</string>
+    <string name="menu_clear_history">Obriši povijest</string>
+    <string name="menu_about">O aplikaciji</string>
+    <string name="theme_system">Sustav</string>
+    <string name="theme_amoled">Crna</string>
+    <string name="theme_dark">Tamna</string>
+    <string name="theme_light">Svjetla</string>
+    <string name="value_copied">Kopirano</string>
+    <string name="infinity">Bezbroj</string>
+    <string name="division_by_0">Ne može se podijeliti s 0</string>
+    <string name="domain_error">Pogreška domene</string>
+    <string name="syntax_error">Sintaksna pogreška</string>
+    <string name="value_too_large">Prevelika vrijednost</string>
+    <string name="settings_general_vibration_desc">Vibrira kada se pritisne tipka</string>
+    <string name="settings_history_size">Broj spremljenih rezultata u povijesti</string>
+    <string name="settings_general_vibration">Vibracije</string>
+    <string name="settings_advanced_prevent_sleep">Spriječi isključivanje zaslona</string>
+    <string name="settings_category_advanced">NAPREDNO</string>
+    <string name="settings_general_scientific_mode">Napredni način rada</string>
+    <string name="settings_general_radians">Radijani</string>
+    <string name="about_category_help">POMOZI NAM</string>
+    <string name="about_help_donate">Doniraj</string>
+    <string name="about_category_social">DRUŠTVENI MEDIJI</string>
+    <string name="about_category_info">OSTALO</string>
+    <string name="about_help_translate">Prevedi</string>
+    <string name="about_help_rate">Ocijeni ovu aplikaciju</string>
+    <string name="about_made_in_france">Napravljeno s ❤️ u Francuskoj</string>
+    <string name="settings_formatting_precision">Broj decimalnih mjesta</string>
+    <string name="about_other_privacy_policy">Politika privatnosti</string>
+    <string name="settings_general_language">Jezik</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="settings_category_history">POVIJEST</string>
+    <string name="settings_category_general">Opće</string>
+    <string name="settings_advanced_prevent_sleep_desc">Spriječi da se zaslon isključi dok je aplikacija u prvom planu</string>
+    <string name="settings_general_scientific_mode_desc">Aktiviraj napredni način rada prema zadanim postavkama</string>
+    <string name="settings_general_radians_desc">Koristi radijane umjesto stupnjeva prema zadanim postavkama</string>
+    <string name="about_other_version">Verzija</string>
+    <string name="about_easter_egg">Hvala što koristite OpenCalc ❤️</string>
+    <string name="settings_category_formatting">FORMATIRANJE</string>
+    <string name="settings_formatting_scientific_notation_desc">Pretvori sve rezultate u znanstveni način pisanja</string>
+    <string name="settings_formatting_scientific_notation">Broj u znanstveni način pisanja</string>
+</resources>

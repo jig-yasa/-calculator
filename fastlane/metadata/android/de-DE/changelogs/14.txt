@@ -1,0 +1,6 @@
+Neu:
+- Spenden-Taste
+
+Änderungenen:
+- Verlausformat verbessert
+- Minus-Symbol aktualisiert

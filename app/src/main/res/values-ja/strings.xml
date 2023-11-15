@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_display">電卓</string>
+    <string name="settings_general_theme">テーマ</string>
+    <string name="menu_about">About</string>
+    <string name="infinity">無限大</string>
+    <string name="menu_settings">設定</string>
+    <string name="settings_category_history">履歴</string>
+    <string name="settings_category_general">全般</string>
+    <string name="settings_general_radians">ラジアン</string>
+    <string name="about_category_help">手を貸して下さい</string>
+    <string name="about_help_donate">寄付</string>
+    <string name="about_category_social">問い合わせ</string>
+    <string name="about_help_translate">翻訳</string>
+    <string name="about_category_info">その他</string>
+    <string name="about_help_rate">このアプリを評価する</string>
+    <string name="about_other_version">バージョン</string>
+    <string name="about_easter_egg">OpenCalc をご利用いただきありがとうございます❤️</string>
+    <string name="about_made_in_france">フランス製 ❤️</string>
+    <string name="about_other_privacy_policy">個人情報保護方針</string>
+    <string name="settings_general_scientific_mode_desc">デフォルトで科学モードを有効にする</string>
+    <string name="settings_history_size">結果を履歴に残す</string>
+    <string name="settings_general_language">言語</string>
+    <string name="value_too_large">値が大きすぎます</string>
+    <string name="division_by_0">0 で割り切れない</string>
+    <string name="domain_error">ドメインエラー</string>
+    <string name="value_copied">コピーした</string>
+    <string name="theme_amoled">アモルデッド</string>
+    <string name="settings_general_radians_desc">デフォルトで度(° )ではなくラジアン(rad)を使用する</string>
+    <string name="settings_general_scientific_mode">科学モード</string>
+    <string name="settings_category_advanced">アドバンスド</string>
+    <string name="settings_advanced_prevent_sleep">スマホがスリープしないようにする</string>
+    <string name="settings_general_vibration">バイブレーション</string>
+    <string name="settings_general_vibration_desc">ボタンが押されたときに振動する</string>
+    <string name="settings_advanced_prevent_sleep_desc">アプリがフォアグラウンドにある間は、スマホがスリープしないようにする</string>
+    <string name="syntax_error">構文エラー</string>
+    <string name="theme_dark">ダーク</string>
+    <string name="theme_system">システム</string>
+    <string name="theme_light">ライト</string>
+    <string name="settings_formatting_precision">小数点以下の桁数</string>
+    <string name="menu_clear_history">履歴を削除</string>
+</resources>

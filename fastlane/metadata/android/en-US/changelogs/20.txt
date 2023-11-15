@@ -1,0 +1,4 @@
+Fixes:
+- Auto close parenthesis
+- Multiply factorials without *
+- Auto add 0 when number starts with decimal separator

@@ -1,0 +1,2 @@
+Fehlerbehebungen:
+- Absturz bei kleinen Bildschirmen und Tablets

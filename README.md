@@ -98,3 +98,4 @@ This project is licensed under [GPLv3](/LICENSE)
   <img alt="List of contributors to this repository" src="https://contrib.rocks/image?repo=Darkempire78/OpenCalc" />
 </a>
 
+# -calculator

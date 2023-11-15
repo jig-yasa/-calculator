@@ -1,0 +1,7 @@
+Änderungen:
+- Neue Über-Seite
+- Trennlinie für das Amoled Design
+
+Fehlerbehebungen:
+- Checkbox Farbe
+- App Name (übersetzt in EN & FR)
